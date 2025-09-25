@@ -1,4 +1,3 @@
-'use client';
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
@@ -153,10 +152,10 @@ export default function NestLanding() {
             email="alex@nest.coop"
           />
           <PersonCard
-            name="Drew Brown"
+            name="[Buddy Name]"
             title="Networking & Support"
             blurb="Small‑biz networks, Wi‑Fi, endpoint management, backups, hands‑on onboarding, and calm ongoing support."
-            email="drew@nest.coop"
+            email="buddy@nest.coop"
           />
         </div>
       </Section>
@@ -177,8 +176,8 @@ export default function NestLanding() {
               <a className="inline-flex items-center gap-2 hover:opacity-80" href="mailto:alex@nest.coop">
                 <Mail className="w-4 h-4" /> alex@nest.coop
               </a>
-              <a className="inline-flex items-center gap-2 hover:opacity-80" href="mailto:drew@nest.coop">
-                <Mail className="w-4 h-4" /> drew@nest.coop
+              <a className="inline-flex items-center gap-2 hover:opacity-80" href="mailto:buddy@nest.coop">
+                <Mail className="w-4 h-4" /> buddy@nest.coop
               </a>
             </div>
             <div className="mt-6">
