@@ -44,7 +44,7 @@ export default function NestLanding() {
         <div className="max-w-6xl mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-8 h-16">
           <div className="flex items-center gap-3">
             <Image src="/nest-icon.png" alt="NEST logo" width={36} height={36} />
-            <span className="font-semibold tracking-[0.08em]">NEST — New England Simplified Technologies</span>
+            <span className="font-semibold tracking-[0.08em]">NEST Cooperative</span>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm">
             <a href="#services" className="hover:opacity-80">Services</a>
@@ -108,7 +108,7 @@ export default function NestLanding() {
             Small business networks, Wi‑Fi, device rollout, backups, monitoring, documentation, and friendly support.
           </FeatureCard>
           <FeatureCard icon={<Building2 className="w-5 h-5" />} title="Municipal tooling">
-            Assessing kiosks, parcel search, abutters, secure portals—built around how staff actually works.
+            Interactive kiosks and web apps designed around your community’s needs. Whether it’s property info, permitting, or local services, we create tools that match your workflows.
           </FeatureCard>
         </div>
       </Section>
