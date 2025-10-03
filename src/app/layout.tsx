@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NEST Cooperative",
+  title: "NEST Cooperative | Tech services for New England communities",
   description: "Community-focused tech services",
 };
 
