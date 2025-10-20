@@ -71,7 +71,7 @@ export default function NestLanding() {
               <Globe2 className="w-3.5 h-3.5" /> Local roots • Modern tech • Cooperative structure
             </div>
             <h1 className="mt-5 text-4xl sm:text-5xl font-semibold leading-tight">
-              Calm, dependable tech for cities, orgs, and small businesses
+              Experienced, dependable tech for cities, orgs, and small businesses
             </h1>
             <p className="mt-4 text-slate-600 max-w-prose">
               We design, build, and maintain pragmatic software and infrastructure. No jargon‑storms—just reliable systems
